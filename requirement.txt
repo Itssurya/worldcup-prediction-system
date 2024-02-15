@@ -1,0 +1,6 @@
+xgboost==2.0.3
+sklearn
+scikit-learn==1.0.2
+streamlit
+pandas
+pickle
